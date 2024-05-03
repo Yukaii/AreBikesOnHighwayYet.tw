@@ -9,7 +9,7 @@
     </div>
     <div class="flex-grow flex flex-col justify-center items-center">
       <h1 class="text-4xl md:text-6xl font-bold text-center text-gray-800 mb-8">
-        In Taiwan, can motorbikes ride on the highway yet?
+        In Taiwan, are motorbikes on the highway yet?
       </h1>
       <p class="text-8xl md:text-9xl font-bold text-red-600">NO</p>
     </div>
