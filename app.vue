@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full h-screen flex flex-col bg-[#FFFF00]">
+  <div class="w-full h-screen flex flex-col bg-[#ffff77]">
     <div class="flex justify-end px-2 py-2 absolute top-0 left-0 w-full">
       <button
         class="bg-white hover:bg-gray-100 text-gray-800 font-semibold py-2 px-4 border border-gray-400 rounded shadow"
