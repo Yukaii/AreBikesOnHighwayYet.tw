@@ -1,5 +1,11 @@
 {
   "layouts": {
 		"title": "Are Bikes on Highway Yet?"
+  },
+  "home": {
+    "question": "In Taiwan, are motorbikes on the highway yet?"
+  },
+  "answer": {
+    "no": "NO"
   }
 }
