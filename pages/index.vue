@@ -15,3 +15,11 @@
     </div>
   </div>
 </template>
+
+<script setup>
+const { locale, locales, t } = useI18n()
+
+definePageMeta({
+  title: 'pages.title.index'
+})
+</script>
