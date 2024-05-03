@@ -9,9 +9,13 @@ export default defineNuxtConfig({
     },
   },
   i18n: {
+    locales: ['en', 'zh-TW'],
+    strategy: 'prefix_except_default',
+    defaultLocale: 'zh-TW',
     detectBrowserLanguage: {
       useCookie: true,
       cookieKey: 'i18n_redirected',
+      redirectOn: 'root',
     }
   }
 });

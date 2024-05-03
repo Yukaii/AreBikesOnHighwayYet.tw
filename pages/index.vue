@@ -21,6 +21,7 @@
 
 <script setup>
 const { locale, setLocale, t } = useI18n()
+const switchLocalePath = useSwitchLocalePath()
 
 definePageMeta({
   title: 'pages.title.index'
