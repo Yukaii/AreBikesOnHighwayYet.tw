@@ -18,15 +18,11 @@
         </p>
       </div>
 
-      <div class="flex justify-start px-2 py-2 absolute bottom-0 left-0 w-full">
-      	<p>
+      <div class="flex justify-center px-2 py-2 absolute bottom-0 left-0 w-full">
+      	<p class="text-xl">
       		{{ t('since', { time: timelapsed }) }}
       	</p>
       </div>
-    </div>
-
-    <div class="h-10">
-    	hello
     </div>
   </div>
 </template>
