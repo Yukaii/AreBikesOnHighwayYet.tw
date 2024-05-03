@@ -7,5 +7,7 @@
   },
   "answer": {
     "no": "不行"
-  }
+  },
+  "timelapsed": "{days} 天 {remainingHours} 小時 {remainingMinutes} 分 {remainingSeconds} 秒",
+  "since": "自從 2013/5/3 過了 {time}"
 }

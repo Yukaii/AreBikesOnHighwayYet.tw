@@ -7,5 +7,7 @@
   },
   "answer": {
     "no": "NO"
-  }
+  },
+  "timelapsed": "{days} days, {remainingHours} hours, {remainingMinutes} minutes, {remainingSeconds} seconds",
+  "since": "{time} since 2013/5/3 "
 }
